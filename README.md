@@ -9,8 +9,8 @@ Repository containing code for the paper: [Deep Learning Blazar Classification b
 
 #Map of Attention
 
-![map1](Map_of_Attention/Sample_12 _Class_Blazar.png)
-![map2](Map_of_Attention/Sample_3553_Class_Blazar.png)
-![map3](Map_of_Attention/Sample_3568_Class_AGN.png)
+![map1](https://github.com/patrick-schubert/blazars/blob/main/Map_of_Attention/Sample_%2017%20_%20Class_%20Blazar.png)
+![map2](https://github.com/patrick-schubert/blazars/blob/main/Map_of_Attention/Sample_%203554%20_%20Class_%20Blazar.png)
+![map3](https://github.com/patrick-schubert/blazars/blob/main/Map_of_Attention/Sample_%203563%20_%20Class_%20AGN.png)
 
 
