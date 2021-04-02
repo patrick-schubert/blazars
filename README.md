@@ -15,6 +15,7 @@ Can you find a pattern that potentially classify any of the two classes?
 ![ROC](https://github.com/patrick-schubert/blazars/blob/main/Best%20ROC.png)
 
 ### Map of Attention
+Statistics designed within the old keras framework to provide explainability of what features are important for the model to make an inference. This procedure enables investigation of physics motivation behind the learned decision boundary from the model.
 
 ![map1](https://github.com/patrick-schubert/blazars/blob/main/Map_of_Attention/Sample_%2017%20_%20Class_%20Blazar.png)
 ![map2](https://github.com/patrick-schubert/blazars/blob/main/Map_of_Attention/Sample_%203554%20_%20Class_%20Blazar.png)
