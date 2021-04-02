@@ -5,7 +5,7 @@ Repository containing code for the paper: [Deep Learning Blazar Classification b
 
 # ROC Statistics
 
-![ROC](https://github.com/patrick-schubert/blazars/Best ROC.png)
+![ROC](https://github.com/patrick-schubert/blazars/blob/main/Best%20ROC.png)
 
 #Map of Attention
 
