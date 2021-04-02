@@ -14,3 +14,18 @@ Repository containing code for the paper: [Deep Learning Blazar Classification b
 ![map3](https://github.com/patrick-schubert/blazars/blob/main/Map_of_Attention/Sample_%203563%20_%20Class_%20AGN.png)
 
 
+.crop {
+        width: 200px;
+        height: 150px;
+        overflow: hidden;
+    }
+
+.crop img {
+    width: 400px;
+    height: 300px;
+    margin: -75px 0 0 -100px;
+}
+
+<div class="crop">
+  <img src="https://github.com/patrick-schubert/blazars/blob/main/Map_of_Attention/Sample_%203554%20_%20Class_%20Blazar.png" alt="map45">
+</div>
